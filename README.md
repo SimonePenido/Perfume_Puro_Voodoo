@@ -1,8 +1,5 @@
 # Perfume Puro Voodoo
 
-![video-item1](https://github.com/SimonePenido/Perfume_Puro_Voodoo/assets/112627846/f5bb9379-12ae-49ed-83c4-8373c147eb3c)
-
-
 [![GitHub license](https://img.shields.io/github/license/SimonePenido/Perfume_Puro_Voodoo)](https://github.com/SimonePenido/Perfume_Puro_Voodoo/blob/main/LICENSE)
 
 ## Descrição
@@ -15,7 +12,7 @@ O site está hospedado no GitHub Pages e pode ser acessado [aqui](https://simone
 
 ## Capturas de Tela
 
-Inclua capturas de tela do site aqui para dar uma prévia visual do projeto.
+![video-item1](https://github.com/SimonePenido/Perfume_Puro_Voodoo/assets/112627846/f5bb9379-12ae-49ed-83c4-8373c147eb3c)
 
 ## Tecnologias Utilizadas
 
@@ -23,9 +20,9 @@ Inclua capturas de tela do site aqui para dar uma prévia visual do projeto.
 
 - Geração de Imagens por IA: As imagens apresentadas no site foram geradas por meio de inteligência artificial, utilizando a API de busca do Bing.
 
-## Inspirado em "Pure Vodoo" de Todo Mundo Odeia o Chris
+## Inspiração
 
-O nome do site, "Perfume Puro Voodoo", foi inspirado no perfume fictício "Pure Vodoo" mencionado na série "Todo Mundo Odeia o Chris".
+O site, "Puro Voodoo", foi inspirado no perfume fictício "Pure Vodoo" mencionado na série "Todo Mundo Odeia o Chris".
 
 ## Como Contribuir
 
@@ -44,6 +41,6 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 ## Contato
 
-Simone Penido - [Seu E-mail] - [Seu LinkedIn] - [Outras informações de contato, se aplicável]
+Simone Penido - [simpenido@gmail.com] 
 
 Projeto hospedado em: [https://github.com/SimonePenido/Perfume_Puro_Voodoo](https://github.com/SimonePenido/Perfume_Puro_Voodoo)
