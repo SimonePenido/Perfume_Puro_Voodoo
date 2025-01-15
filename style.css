@@ -665,3 +665,7 @@ a {
 #form input::placeholder {
   color: var(--bs-secondary);
 }
+
+.footer-bottom {
+  font-size: 0.7rem;
+}
