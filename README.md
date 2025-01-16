@@ -8,7 +8,7 @@ Este repositório contém o código-fonte e recursos para o site "Perfume Puro V
 
 ## Acesso ao Site
 
-O site está hospedado no GitHub Pages e pode ser acessado [aqui](https://simonepenido.github.io/Perfume_Puro_Voodoo/).
+O site está hospedado no [GitHub Pages](https://simonepenido.github.io/Perfume_Puro_Voodoo/) e também no [Netlify](https://purovodoo.netlify.app).
 
 ## Capturas de Tela
 
